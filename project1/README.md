@@ -4,7 +4,7 @@
 
 A web application to create wallpapers that boost motivation.
 
-## stacks
+## Tech Stack
 
 - HTML
 - CSS
